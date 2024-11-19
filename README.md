@@ -1,1 +1,0 @@
-prisma --> ORM library. It is used to communicate with server and database. Mongoose alternative
